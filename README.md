@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Omar Mohamed! 👋
 
-📱 Mobile App Developer | 🚀 Flutter Enthusiast | ☕ Java & Swift Lover
+📱 Mobile Developer | 🚀 ITI Trainee | 🎓 Computer Science Graduate
 
 ## Projects
 
@@ -24,22 +24,20 @@ Description of your iOS (Swift) project.
 ## 📫 Get in Touch
 
 - Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourlinkedinprofile)
-- Email: your.email@example.com
+- LinkedIn: [Omar Mohamed](https://www.linkedin.com/in/omarmohamed)
+- Email: omar.mohamed@example.com
 
 ## 🌐 Check Out My Blog
 
-[Blog Name](https://yourblog.com)
+[Omar's Tech World](https://omarblog.com)
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
 ## Supported Technologies
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
-
-
 
 <!--
 **Omaar-Mohamed/Omaar-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
