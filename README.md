@@ -5,7 +5,7 @@
 
 ## Skills
 
-- 💻 Languages: Dart, Java, Swift
+- 💻 Languages: Dart, Java, kotlin, Swift, c++, php, javascript, python
 - 📱 Frameworks: Flutter
 - 📲 Mobile Platforms: Android, iOS
 - 🛠 Tools: Android Studio, Xcode, VS Code
