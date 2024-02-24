@@ -2,16 +2,6 @@
 
 📱 Mobile Developer | 🚀 ITI Trainee | 🎓 Computer Science Graduate
 
-## Projects
-
-### [Flutter Project](link-to-flutter-project)
-Description of your Flutter project.
-
-### [Android Project](link-to-android-project)
-Description of your Android (Java) project.
-
-### [iOS Project](link-to-ios-project)
-Description of your iOS (Swift) project.
 
 ## Skills
 
