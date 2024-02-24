@@ -1,20 +1,24 @@
 # Hello, I'm [Your Name]! 👋
 
-🚀 Software Developer | 🌐 Open Source Contributor | 🌈 Tech Enthusiast
+📱 Mobile App Developer | 🚀 Flutter Enthusiast | ☕ Java & Swift Lover
 
 ## Projects
 
-### [Project 1](link-to-project1)
-Description of Project 1.
+### [Flutter Project](link-to-flutter-project)
+Description of your Flutter project.
 
-### [Project 2](link-to-project2)
-Description of Project 2.
+### [Android Project](link-to-android-project)
+Description of your Android (Java) project.
+
+### [iOS Project](link-to-ios-project)
+Description of your iOS (Swift) project.
 
 ## Skills
 
-- 💻 Programming Languages: JavaScript, Python
-- 🚀 Frameworks: React, Node.js
-- 🛠 Tools: Git, VS Code
+- 💻 Languages: Dart, Java, Swift
+- 📱 Frameworks: Flutter
+- 📲 Mobile Platforms: Android, iOS
+- 🛠 Tools: Android Studio, Xcode, VS Code
 - ...
 
 ## 📫 Get in Touch
@@ -30,6 +34,10 @@ Description of Project 2.
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+
+## Supported Technologies
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
 
 
 
