@@ -17,11 +17,6 @@
 - LinkedIn: [Omar Mohamed](www.linkedin.com/in/omar-mohamed-318bb5247)
 - Email: omaaaarmohameds@gmail.com
 
-  ## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-
-
 ## Supported Technologies
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
