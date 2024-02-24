@@ -1,6 +1,6 @@
 # Hello, I'm Omar Mohamed! 👋
 
-📱 Mobile Developer | 🚀 ITI Trainee | 🎓 Computer Science Graduate
+💻 Software Engineer | 📱 Mobile Developer | 🚀 ITI Trainee | 🎓 Computer Science Graduate
 
 
 ## Skills
@@ -9,17 +9,14 @@
 - 📱 Frameworks: Flutter
 - 📲 Mobile Platforms: Android, iOS
 - 🛠 Tools: Android Studio, Xcode, VS Code
+- ⚙️ Backend: Node.js
 - ...
 
 ## 📫 Get in Touch
 
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- LinkedIn: [Omar Mohamed](https://www.linkedin.com/in/omarmohamed)
-- Email: omar.mohamed@example.com
+- LinkedIn: [Omar Mohamed](www.linkedin.com/in/omar-mohamed-318bb5247)
+- Email: omaaaarmohameds@gmail.com
 
-## 🌐 Check Out My Blog
-
-[Omar's Tech World](https://omarblog.com)
 
 ## GitHub Stats
 
@@ -27,7 +24,7 @@
 
 ## Supported Technologies
 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
 
 <!--
 **Omaar-Mohamed/Omaar-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
