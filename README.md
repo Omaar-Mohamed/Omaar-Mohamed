@@ -17,6 +17,10 @@
 - LinkedIn: [Omar Mohamed](www.linkedin.com/in/omar-mohamed-318bb5247)
 - Email: omaaaarmohameds@gmail.com
 
+  ## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+
 
 ## Supported Technologies
 
