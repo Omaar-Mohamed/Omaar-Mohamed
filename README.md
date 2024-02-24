@@ -14,7 +14,7 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Omar Mohamed](www.linkedin.com/in/omar-mohamed-318bb5247)
+- LinkedIn: [Omar Mohamed]([www.linkedin.com/in/omar-mohamed-318bb5247](https://www.linkedin.com/in/omar-mohamed-318bb5247/))
 - Email: omaaaarmohameds@gmail.com
 
 ## Supported Technologies
