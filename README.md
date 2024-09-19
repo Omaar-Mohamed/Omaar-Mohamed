@@ -1,6 +1,6 @@
 # Hello, I'm Omar Mohamed! 👋
 
-💻 Software Engineer | 📱 Mobile Developer | 🚀 ITI Trainee | 🎓 Computer Science Graduate
+💻 Software Engineer | 📱 Mobile Developer | 🎓 ITI Graduate | 🎓 Computer Science Graduate
 
 ## Skills
 
